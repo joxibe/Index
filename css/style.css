@@ -36,8 +36,7 @@ nav .rigth a{
 }
 
 nav .rigth .cabecera{
-    background-color: rgb(132, 175, 218);
-    border-radius: 5px;
+    border-bottom: 2px solid rgb(132, 175, 218);
     padding: 5px;
 }
 
